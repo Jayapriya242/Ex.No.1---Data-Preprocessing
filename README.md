@@ -35,7 +35,11 @@ Splitting the data into test and train
 /Write your code here/
 
 ##OUTPUT:
-/ Show the result/
+![WhatsApp Image 2022-09-24 at 8 25 35 PM](https://user-images.githubusercontent.com/114279259/192104970-a6db15a9-07af-42d9-a0ea-eed15e75dbaa.jpeg)
+![WhatsApp Image 2022-09-24 at 8 25 36 PM](https://user-images.githubusercontent.com/114279259/192104980-64dae628-bda1-4d81-b51e-10ed29cee4dc.jpeg)
+![WhatsApp Image 2022-09-24 at 8 25 36 PM (1)](https://user-images.githubusercontent.com/114279259/192104988-a45129d8-e632-444f-96b0-0cfa511dbab0.jpeg)
+![WhatsApp Image 2022-09-24 at 8 25 36 PM (2)](https://user-images.githubusercontent.com/114279259/192104991-4449cfdd-dc6d-46d2-8ca9-df3b4fe8e5f1.jpeg)
 
-##RESULT
-/Type your result here/
+
+##RESULT :
+Thus the above program for standardizing the given data was implemented successfully
