@@ -1,9 +1,10 @@
 # Ex.No.1---Data-Preprocessing
-##AIM:
+
+## AIM:
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -23,15 +24,21 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
-Importing the libraries
-Importing the dataset
-Taking care of missing data
-Encoding categorical data
-Normalizing the data
-Splitting the data into test and train
+## ALGORITHM:
 
-##PROGRAM:
+1.Importing the libraries
+
+2.Importing the dataset
+
+3.Taking care of missing data
+
+4.Encoding categorical data
+
+5.Normalizing the data
+
+6.Splitting the data into test and train
+
+## PROGRAM:
 ```
 Register number:212221220022
 Name: T.Jayapriya
@@ -60,7 +67,7 @@ sc = StandardScaler()
 df1 = sc.fit_transform(df)
 print(df1)
 ```
-##OUTPUT:
+## OUTPUT:
 
 ![WhatsApp Image 2022-09-24 at 8 25 35 PM](https://user-images.githubusercontent.com/114279259/192104970-a6db15a9-07af-42d9-a0ea-eed15e75dbaa.jpeg)
 
@@ -71,6 +78,6 @@ print(df1)
 ![WhatsApp Image 2022-09-24 at 8 25 36 PM (2)](https://user-images.githubusercontent.com/114279259/192104991-4449cfdd-dc6d-46d2-8ca9-df3b4fe8e5f1.jpeg)
 
 
-##RESULT :
+## RESULT :
 
 Thus the above program for standardizing the given data was implemented successfully
